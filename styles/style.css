@@ -43,3 +43,8 @@ button {
     cursor: pointer;
     color: #ffffff;
 }
+
+.weather-info {
+    text-align: center;
+    margin-top: 20px;
+}
